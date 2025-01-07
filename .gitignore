@@ -1,0 +1,37 @@
+# Archivos generados por Maven
+target/
+build/
+
+# Archivos sensibles de configuración de Spring Boot
+src/main/resources/application.properties
+
+# Archivos de configuración específicos de IDE
+.idea/
+*.iml
+
+# Archivos y carpetas de IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Archivos de STS y NetBeans
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# No ignorar lo necesario en `src`
+!src/main/java/
+
